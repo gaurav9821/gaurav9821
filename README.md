@@ -1,3 +1,4 @@
+![MasterHead](http://websitemakers.company/images/website.gif)
 <h1 align="center">Hi 👋, I'm Gaurav Chachada</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <h2 align = "left">Visit my detailed profile - <a href = "https://drive.google.com/file/d/1wLyi8GnuFm3uVlcuGP374AdNAKgSHr_5/view?usp=sharing">Resume</a></h2>
@@ -6,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav9821&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav9821" /> </p>
 
-- 🔭 I’m currently working on **ReactJS, Java and Python for Development Project**
+- 🔭 I’m currently working on **ReactJS and Java Development Project**
 
-- 🌱 I’m currently learning **Machine Learning, Data Science, ReactJS**
+- 🌱 I’m currently learning **Data Science, ReactJS**
 
-- 👯 I’m looking to collaborate on **Development and ML Projects**
+- 👯 I’m looking to collaborate on **Software or Website development**
 
 - 🤝 I’m looking for help with **Data Science and Software Development**
 
