@@ -1,8 +1,8 @@
 ![MasterHead](http://websitemakers.company/images/website.gif)
 <h1 align="center">Hi 👋, I'm Gaurav Chachada</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-<h2 align = "left">Visit my detailed profile - <a href = "https://drive.google.com/file/d/1wLyi8GnuFm3uVlcuGP374AdNAKgSHr_5/view?usp=sharing">Resume</a></h2>
-
+<h2 align="center">A passionate Full Stack Developer from India</h2>
+<h3 align = "left">Visit my detailed profile - <a href = "https://drive.google.com/file/d/1wLyi8GnuFm3uVlcuGP374AdNAKgSHr_5/view?usp=sharing">Resume</a></h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🔭 I’m currently working on **ReactJS and Java Development Project**
