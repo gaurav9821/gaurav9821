@@ -46,6 +46,7 @@
 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav9821&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gaurav9821" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav9821&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gaurav9821" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav9821&show_icons=true&locale=en&lang_count=8&theme=tokyonight" alt="gaurav9821" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav9821&show_icons=true&locale=en&theme=tokyonight" alt="gaurav9821" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav9821&theme=tokyonight" alt="gaurav9821" /></p>
