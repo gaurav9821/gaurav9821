@@ -2,24 +2,25 @@
 <h1 align="center">Hi 👋, I'm Gaurav Chachada</h1>
 <h2 align="center">A passionate Full Stack Developer from India</h2>
 <h3 align = "left">Visit my detailed profile - <a href = "https://drive.google.com/file/d/1wLyi8GnuFm3uVlcuGP374AdNAKgSHr_5/view?usp=sharing">Resume</a></h3>
-<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on **ReactJS and Java Development Project**
+<h3> Here are some ideas to get you started: </h3>
 
-- 🌱 I’m currently learning **Data Science, ReactJS**
+- 🔭 I’m currently working on: **ReactJS and Java Development Project**
 
-- 👯 I’m looking to collaborate on **Software or Website development**
+- 🌱 I’m currently learning: **Data Science, ReactJS**
 
-- 🤝 I’m looking for help with **Data Science and Software Development**
+- 👯 I’m looking to collaborate on: **Software or Website development**
 
-- 💬 Ask me about **tech facts**
+- 🤝 I’m looking for help with: **Data Science and Software Development**
+
+- 💬 Ask me about: **tech facts**
 
 - 📫 How to reach me: <a href="https://linkedin.com/in/gauravchachada" target="blank">Linkedin</a> or Email - **gaurav120998chachada@gmail.com** 
 
-- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1wLyi8GnuFm3uVlcuGP374AdNAKgSHr_5/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences: <a href = "https://drive.google.com/file/d/1wLyi8GnuFm3uVlcuGP374AdNAKgSHr_5/view?usp=sharing" target="blank">Resume</a>
 
-- ⚡ Fun fact **Wanna build cool stuffs**
+- ⚡ Fun fact: **Wanna build cool stuffs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
