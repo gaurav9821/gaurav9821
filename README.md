@@ -1,7 +1,7 @@
 ![MasterHead](http://websitemakers.company/images/website.gif)
 <h1 align="center">Hi 👋, I'm Gaurav Chachada</h1>
 <h2 align="center">A passionate Full Stack Developer from India</h2>
-<h3 align = "left">Visit my detailed profile - <a href = "https://drive.google.com/file/d/1sc0BzZrQ0m2JFa_agOyYOL7dYNm07wKI/view?usp=sharing">Resume</a></h3>
+<h3 align = "left">Visit my detailed profile - <a href = "https://drive.google.com/file/d/1pGeLEei71PKppDDKdeNfAusBU2dAahAS/view?usp=sharing">Resume</a></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <h3> Here are some ideas to get you started: </h3>
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: <a href="https://linkedin.com/in/gauravchachada" target="blank">Linkedin</a> or Email - **gaurav120998chachada@gmail.com** 
 
-- 📄 Know about my experiences: <a href = "https://drive.google.com/file/d/1sc0BzZrQ0m2JFa_agOyYOL7dYNm07wKI/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences: <a href = "https://drive.google.com/file/d/1pGeLEei71PKppDDKdeNfAusBU2dAahAS/view?usp=sharing" target="blank">Resume</a>
 
 - ⚡ Fun fact: **Wanna build cool stuffs**
 
